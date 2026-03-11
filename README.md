@@ -14,11 +14,14 @@
 
 OKX（曾用名 OKEx）是全球性的数字资产交易所之一，服务覆盖全球多个国家 / 地区，提供数字资产现货与衍生品交易功能。  
 平台支持主流币种交易，并提供深度流动性与先进交易功能。
-[欧易okx官网--国际用户或翻墙访问](https://www.okx.com/zh-hans/join?channelId=ACE531305)
 
-[欧易okx官方网站-国内用户访问](https://www.promoohubly.com/zh-hans/join?channelId=ACE531305
+[欧易okx官网--需翻墙](https://www.okx.com/zh-hans/join?channelId=ACE531305)
+
+[欧易okx官网--无需翻墙](https://www.promoohubly.com/zh-hans/join?channelId=ACE531305
 )
 
+[欧易安卓下载链接](https://www.lgkjwnrbpxd.com/upgradeapp/android_ACE531305.apk
+)
 ---
 
 ## 💡 核心产品与服务
@@ -108,7 +111,7 @@ print(data)
 📚 参考文档与资源
 
 OKX 官方网站：
-[欧易okx官网--国际用户或翻墙访问](https://www.okx.com/zh-hans/join?channelId=ACE531305)
-
-[欧易okx官方网站-国内用户访问](https://www.promoohubly.com/zh-hans/join?channelId=ACE531305
+[欧易okx官网（无需翻墙）](https://www.mowcxugr.com/zh-hans/join?channelId=ACE531305
+)
+[欧易okx官网（需翻墙）](https://www.okx.com/zh-hans/join?channelId=ACE531305
 )
