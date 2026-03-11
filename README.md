@@ -22,6 +22,7 @@ OKX（曾用名 OKEx）是全球性的数字资产交易所之一，服务覆盖
 
 [欧易安卓下载链接](https://www.lgkjwnrbpxd.com/upgradeapp/android_ACE531305.apk
 )
+
 ---
 
 ## 💡 核心产品与服务
@@ -111,7 +112,5 @@ print(data)
 📚 参考文档与资源
 
 OKX 官方网站：
-[欧易okx官网（无需翻墙）](https://www.mowcxugr.com/zh-hans/join?channelId=ACE531305
-)
 [欧易okx官网（需翻墙）](https://www.okx.com/zh-hans/join?channelId=ACE531305
 )
